@@ -1,0 +1,17 @@
+//////////////////////////////
+////// Help File /////
+//////////////////////////////
+
+How to use an Adobe Pattern file:
+
+1) Open a new Photoshop file and set your document size (for example 3000x3000)
+
+2) Install the pattern file by double click on the .pat file.
+
+3) To use the patterns go to --> Layers ---> New fill Layer ---> Patterns
+
+4) You will see 32 patterns and you can just click on each one and your background will change to the pattern of your choice. Thanks and enjoy!
+
+//////////////////////////
+www.designsutninger.de
+////////////////////////

@@ -1,0 +1,255 @@
+
+span.background-box {
+    background: url("../images/rounded-buttons-left.png") no-repeat scroll 0 0 transparent;
+    display: block;
+    margin: 5px 0;
+    padding-left: 20px;
+}
+
+
+span.background-box > span {
+    background: url("../images/rounded-buttons-right.png") no-repeat scroll right top transparent;
+    color: white;
+    display: block;
+    font-weight: bold;
+    height: 27px;
+    line-height: 26px;
+    text-shadow: 1px 1px 2px #4A4A4A;
+    padding-right: 20px;
+    max-width: 450px;	
+}
+span.background-box > span>a {
+	color:white;
+}
+
+
+/* ================== */
+
+span.background-box1 {
+ background-position: left 0px;
+}
+
+
+span.background-box1 > span {
+    background-position: right 0px;
+}
+
+span.background-box1:hover {
+ background-position: left -27px;
+}
+
+
+span.background-box1:hover > span {
+    background-position: right -27px;
+}
+
+/* ================== */
+
+span.background-box2 {
+ background-position: left -54px;
+}
+
+
+span.background-box2 > span {
+    background-position: right -54px;
+}
+
+span.background-box2:hover {
+ background-position: left -81px;
+}
+
+
+span.background-box2:hover > span {
+    background-position: right -81px;
+}
+
+
+/* ================== */
+
+span.background-box3 {
+ background-position: left -108px;
+}
+
+
+span.background-box3 > span {
+    background-position: right -108px;
+}
+
+span.background-box3:hover {
+ background-position: left -135px;
+}
+
+
+span.background-box3:hover > span {
+    background-position: right -135px;
+}
+
+/* ================== */
+
+span.background-box4 {
+ background-position: left -162px;
+}
+
+
+span.background-box4 > span {
+    background-position: right -162px;
+}
+
+span.background-box4:hover {
+ background-position: left -189px;
+}
+
+
+span.background-box4:hover > span {
+    background-position: right -189px;
+}
+
+
+/* ================== */
+
+span.background-box5 {
+ background-position: left -216px;
+}
+
+
+span.background-box5 > span {
+    background-position: right -216px;
+}
+
+span.background-box5:hover {
+ background-position: left -243px;
+}
+
+
+span.background-box5:hover > span {
+    background-position: right -243px;
+}
+
+
+/* ================== */
+
+span.background-box6 {
+ background-position: left -270px;
+}
+
+
+span.background-box6 > span {
+    background-position: right -270px;
+}
+
+span.background-box6:hover {
+ background-position: left -297px;
+}
+
+
+span.background-box6:hover > span {
+    background-position: right -297px;
+}
+
+
+/* ================== */
+
+span.background-box7 {
+ background-position: left -324px;
+}
+
+
+span.background-box7 > span {
+    background-position: right -324px;
+}
+
+span.background-box7:hover {
+ background-position: left -351px;
+}
+
+
+span.background-box7:hover > span {
+    background-position: right -351px;
+}
+
+
+/* ================== */
+
+span.background-box8 {
+ background-position: left -378px;
+}
+
+
+span.background-box8 > span {
+    background-position: right -378px;
+}
+
+span.background-box8:hover {
+ background-position: left -405px;
+}
+
+
+span.background-box8:hover > span {
+    background-position: right -405px;
+}
+
+
+/* ================== */
+
+span.background-box9 {
+ background-position: left -432px;
+}
+
+
+span.background-box9 > span {
+    background-position: right -432px;
+}
+
+span.background-box9:hover {
+ background-position: left -459px;
+}
+
+
+span.background-box9:hover > span {
+    background-position: right -459px;
+}
+
+
+/* ================== */
+
+span.background-box10 {
+ background-position: left -486px;
+}
+
+
+span.background-box10 > span {
+    background-position: right -486px;
+}
+
+span.background-box10:hover {
+ background-position: left -513px;
+}
+
+
+span.background-box10:hover > span {
+    background-position: right -513px;
+}
+
+
+/* ================== */
+
+span.background-box11 {
+ background-position: left -540px;
+}
+
+
+span.background-box11 > span {
+    background-position: right -540px;
+}
+
+span.background-box11:hover {
+ background-position: left -567px;
+}
+
+
+span.background-box11:hover > span {
+    background-position: right -567px;
+}
+
+
+/* ================== */
